@@ -19,13 +19,13 @@ website:
     contents:
       - auto: "/*.ipynb"
       - section: Lesson notes
-        contents: lesson_notes/*
+        contents: lesson_notes/*.ipynb
       - section: Experiments
-        contents: experiments/*
+        contents: experiments/*.ipynb
       - section: Papers
-        contents: papers/*
+        contents: papers/*.ipynb
       - section: Math
-        contents: math/*
+        contents: math/*.ipynb
     
 
 metadata-files: [nbdev.yml, sidebar.yml]
