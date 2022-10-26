@@ -1,11 +1,12 @@
 ---
-order: 2
 title: Papers
+subtitle: Paper explanation notebooks and code
 listing:
-  fields: [title, description]
-  type: table
+  sort: "date desc"
+  contents: "posts"
   sort-ui: false
   filter-ui: false
+  categories: true
+  feed: true
+page-layout: full
 ---
-
-Here are different paper where we add a TLDR explanation and some code to test them

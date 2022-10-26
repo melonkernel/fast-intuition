@@ -1,6 +1,6 @@
 ---
-title: Lesson notes
-subtitle: Notes from each lesson in fastai 2022 part 2
+title: Math
+subtitle: Math explanations and their equivalent python functions
 listing:
   sort: "date desc"
   contents: "posts"
