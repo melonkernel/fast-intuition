@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fast-intuition"
+  site-url: "https://melonkernel.github.io/fast-intuition"
+  description: "Study group for the fastai course 2022"
+  repo-branch: master
+  repo-url: "https://github.com/melonkernel/fast-intuition"
