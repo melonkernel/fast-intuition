@@ -1,0 +1,11 @@
+---
+order: 2
+title: Lesson notes
+listing:
+  fields: [title, description]
+  type: table
+  sort-ui: false
+  filter-ui: false
+---
+
+Lesson notes
