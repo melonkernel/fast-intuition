@@ -3,16 +3,6 @@ website:
     contents:
       - index.ipynb
       - 00_fast_intuition.ipynb
-      - section: experiments
-        contents:
-          - experiments/index.qmd
-      - section: lesson_notes
-        contents:
-          - lesson_notes/index.qmd
-      - section: math
-        contents:
-          - math/index.qmd
       - section: papers
         contents:
-          - papers/index.qmd
           - papers/diffedit.ipynb

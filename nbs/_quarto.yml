@@ -18,14 +18,5 @@ website:
     style: floating
     contents:
       - auto: "/*.ipynb"
-      - section: Lesson notes
-        contents: ["lesson_notes/*"]
-      - section: Experiments
-        contents: ["experiments/*"]
-      - section: Papers
-        contents: ["papers/*"]
-      - section: Math
-        contents: ["math/*"]
-    
 
 metadata-files: [nbdev.yml, sidebar.yml]
